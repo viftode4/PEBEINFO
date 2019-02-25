@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Windows",
+            "browse": {
+                "path": [
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "${workspaceFolder}",
+                "C:\\MinGW\\lib\\gcc\\mingw32\\8.2.0\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "g++",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
